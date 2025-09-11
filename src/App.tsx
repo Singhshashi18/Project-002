@@ -7,7 +7,7 @@ function App() {
   const [count, setCount] = useState(0)
     const [number, setNumber] = useState("");
     const [result, setResult] = useState("");
-
+ 
   return (
     <>
       <div>
