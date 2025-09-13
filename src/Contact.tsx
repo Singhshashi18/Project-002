@@ -2,7 +2,7 @@
 
 export default function Contact() {
   return (
-    <div>
+    <div>  
       <h2>Contact Page</h2>
       <p>You can contact us at: example@email.com</p>
     </div>
